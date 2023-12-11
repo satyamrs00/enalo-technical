@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.ant-input {
+  border-radius: 0px;
+  background-color: #28313c;
+  color: #e8efef;
+  border-color: #96A0A8;
+}
+
+.ant-input::placeholder {
+  color: #96A0A8;
+}
